@@ -10,15 +10,15 @@ The purpose of this analysis is to investigate the factors contributing to a suc
 **###Analysis and Challenges**
 Although information about other subcategories that were cancelled was available, there were no plays that withdrew from their respective campaigns which can limit the available data for Louise in that regard. Data about goals and pledges of cancelled plays could help draw a crucial conclusion about the outcome. They would be helpful to analyze if plays were cancelled because of funding, time lapsed since launch of the campaign other reasons. 
 
-  Analysis of Outcomes Based on Launch Date
-Trends of Successful and Failed campaigns based on launch date somewhat mimic each other. This means that a lot of shows had a successful campaign between May-July and more shows also failed during that time. This could be ambiguous for Louise and would need more contributing factors for decision making. 
+	Analysis of Outcomes Based on Launch Date
+              Trends of Successful and Failed campaigns based on launch date somewhat mimic each other. This means that a lot of shows had a successful campaign between May-July   		and  more shows also failed during that time. This could be ambiguous for Louise and would need more contributing factors for decision making. 
 
- Analysis of Outcomes Based on Goals
+	Analysis of Outcomes Based on Goals
 	
-Plays are likely to succeed if the goal is either less than 5000 or between 35000 and 40000. Majority of failed shows had a goal ranging from $15000 and up. Unlike data of Outcome by Launch Dates, the graph does a good job of showing an inverse correlation. Trends are the opposite of each other suggesting that for the given goal amount as the percentage of successful plays decreases, that of the failed plays increases. 
+		Plays are likely to succeed if the goal is either less than 5000 or between 35000 and 40000. Majority of failed shows had a goal ranging from $15000 and up.  			Unlike data of Outcome by Launch Dates, the graph does a good job of showing an inverse correlation. Trends are the opposite of each other suggesting that for 			the given goal amount as the percentage of successful plays decreases, that of the failed plays increases. 
 
-Challenges and Difficulties Encountered
-     When looking at the Outcomes based on Goals graph, it could be better to standardize all the data set before analyzing percentage of outcomes. For instance, for outcomes between goals of $45,000 and $49,999, the graph suggests that 100% of shows failed and since no or 0% of successful show are found in this region, it could mislead Louise or other clients. What the graph fails to show is that there was only one failed show in this goal area. It would be intuitive to include how many of each show is in the category to give a better insight into the reader. 
+	Challenges and Difficulties Encountered
+    		 When looking at the Outcomes based on Goals graph, it could be better to standardize all the data set before analyzing percentage of outcomes. For instance, for 		   outcomes between goals of $45,000 and $49,999, the graph suggests that 100% of shows failed and since no or 0% of successful show are found in this region, it 		   could mislead Louise or other clients. What the graph fails to show is that there was only one failed show in this goal area. It would be intuitive to include 		   how many of each show is in the category to give a better insight into the reader. 
 
 #### Results
 
